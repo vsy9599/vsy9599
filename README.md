@@ -7,12 +7,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working at **Infosys** as an **L2 Application Support Engineer** for **GE Vernova**
+- 🔭 I’m currently working at **IT** as an **Azure DevOps** 
 - ⚙️ I work with **Azure Pipelines**, **Terraform**, **GitHub**, and **Chef**
 - ☁️ I have hands-on experience with **Azure Functions**, **App Services**, **Linux**, and **AWS**
-- ✍️ I post **weekly Azure content** on [LinkedIn](https://www.linkedin.com/in/vishal-singh-yadav/)
+- ✍️ I post **weekly Azure content**
 - 🛠 I also work on **shell scripts** for system health checks, automation, and monitoring
-- 💡 Currently learning **SWIFT Alliance Access (SAA)**, **Gateway (SAG)**, and **Linux fundamentals**
+- 💡 Currently learning **Linux fundamentals**
 - 🎯 Always curious about DevOps tools and cloud-native solutions
 
 ---
@@ -44,7 +44,6 @@
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [linkedin.com/in/vishal-singh-yadav](https://www.linkedin.com/in/vishal-singh-yadav/)
 - Email: [vsy9599@gmail.com](mailto:vsy9599@gmail.com)
 - Location: Pune, India (Open to Hybrid/Remote)
 
