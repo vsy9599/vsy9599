@@ -11,7 +11,7 @@
 - 🔭 Currently working as an **Application Support / Azure DevOps Engineer**
 - ⚙️ Working with **Azure Pipelines**, **Terraform**, **GitHub**, and **Chef**
 - ☁️ Hands-on with **Azure Functions**, **App Services**, **Linux**, and **AWS**
-- 📊 Supporting **SWIFT systems** and production infrastructure
+- 📊 Supporting **SWIFT Payment systems** and production infrastructure
 - ✍️ Sharing **weekly Azure & DevOps content**
 - 🛠 Building **automation scripts** for health checks, monitoring, and alerts
 - 🎯 Passionate about **DevOps, Cloud, and Infrastructure Automation**
