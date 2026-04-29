@@ -1,35 +1,47 @@
 <h1 align="center">Hi, I'm Vishal Singh Yadav 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Azure+%7C+Terraform+%7C+CI%2FCD+Expert;Learning+Chef+and+SWIFT+Systems;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2200&pause=600&color=36BCF7&center=true&vCenter=true&width=500&lines=Azure+DevOps+Engineer;Terraform+%7C+CI%2FCD+%7C+Cloud;SWIFT+%7C+Infrastructure+Support;Automation+%7C+Monitoring+Enthusiast;Learning+Chef+%26+Linux" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working at **IT** as an **Azure DevOps** 
-- ⚙️ I work with **Azure Pipelines**, **Terraform**, **GitHub**, and **Chef**
-- ☁️ I have hands-on experience with **Azure Functions**, **App Services**, **Linux**, and **AWS**
-- ✍️ I post **weekly Azure content**
-- 🛠 I also work on **shell scripts** for system health checks, automation, and monitoring
-- 💡 Currently learning **Linux fundamentals**
-- 🎯 Always curious about DevOps tools and cloud-native solutions
+- 🔭 Currently working as an **Application Support / Azure DevOps Engineer**
+- ⚙️ Working with **Azure Pipelines**, **Terraform**, **GitHub**, and **Chef**
+- ☁️ Hands-on with **Azure Functions**, **App Services**, **Linux**, and **AWS**
+- 📊 Supporting **SWIFT systems** and production infrastructure
+- ✍️ Sharing **weekly Azure & DevOps content**
+- 🛠 Building **automation scripts** for health checks, monitoring, and alerts
+- 🎯 Passionate about **DevOps, Cloud, and Infrastructure Automation**
 
 ---
 
 ## 🚀 Skills & Tools
 
-**Cloud Platforms**  
-`Azure` `AWS` `GitHub`  
+**Cloud Platforms**
+`Azure` `AWS`
 
-**DevOps & Automation**  
-`Terraform` `Azure DevOps` `CI/CD` `Chef` `Shell Scripting`  
+**DevOps & Automation**
+`Terraform` `Azure DevOps` `CI/CD` `GitHub Actions` `Chef` `Shell Scripting`
 
-**Monitoring & Logging**  
-`Crontab` `System Logs` `Email Alerts`  
+**Systems & Monitoring**
+`Linux` `Crontab` `System Logs` `Monitoring Scripts` `Email Alerts`
 
-**Other Tools**  
+**Other Tools**
 `Jira` `Trello` `Postman` `Selenium`
+
+---
+
+## 📚 Currently Learning
+
+- 🐧 **Linux** — commands, performance tuning, troubleshooting
+- 🧑‍🍳 **Chef** for configuration management
+- ⚡ Advanced **Terraform** — modules & best practices
+- 🔄 **CI/CD pipeline optimization** with real-world scenarios
+- 🌐 **Networking basics** & system design fundamentals
+- ☁️ **Azure advanced services** & architecture patterns
 
 ---
 
@@ -44,11 +56,11 @@
 
 ## 📫 How to Reach Me
 
-- Email: [vsy9599@gmail.com](mailto:vsy9599@gmail.com)
-- Location: Pune, India (Open to Hybrid/Remote)
+- 📧 Email: [vsy9599@gmail.com](mailto:vsy9599@gmail.com)
+- 📍 Location: Pune, India *(Open to Hybrid / Remote)*
 
 ---
 
 ## ⚡ Fun Fact
 
-> I’m most productive in the evening and I love turning complex server monitoring tasks into neat little shell scripts!
+> I'm most productive in the evening 🌙 — I enjoy turning complex production issues into simple automated shell scripts 🚀
